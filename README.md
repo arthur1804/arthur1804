@@ -1,6 +1,12 @@
+
 ## 
 
-- SystemS Analysis and Development Student
+<div style="text-align: right; width: 100%;">
+  <p style="margin-bottom: 10px;">SystemS Analysis and Development Student</p>
+  <img src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" alt="GIF" style="width: 100%;">
+</div>
+
+- SystemS Analysis and Development Student 
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur1804&show_icons=true&theme=blue_navy)
@@ -13,7 +19,7 @@
 </div>    
 
 ##
-
+Connect with me
 <div> 
 <a href="https://www.youtube.com/channel/UCAXLOczKq3Lg_b91SMtCtNA" target="_blank">
   <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
@@ -31,6 +37,8 @@
   <img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
 </a>
 </div>
+
+
 
 
 
