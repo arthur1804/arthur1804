@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a>
 
-<a href="https://www.reddit.com/user/u/Commercial_Gur_7716" target="_blank">
+<a href="https://www.reddit.com/user/u/Beserkr" target="_blank">
   <img src="https://img.shields.io/badge/-Reddit-%23FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank">
 </a>
 
