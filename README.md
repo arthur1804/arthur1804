@@ -40,6 +40,8 @@ Connect with me
 </a>
 </div>
 
+![Snake Game](https://github.com/arthur1804/arthur1804/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
