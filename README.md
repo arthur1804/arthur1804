@@ -1,7 +1,6 @@
-## olá, eu sou o arthur, ou Bezerkr
+## 
 
-- Cursando  Análise e desenvolvimento de sistemas
-- Atualmente me especializando em linguagem C, C++
+- SystemS Analysis and Development Student
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur1804&show_icons=true&theme=blue_navy)
