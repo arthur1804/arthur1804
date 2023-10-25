@@ -2,11 +2,13 @@
 ## 
 
 <div style="text-align: right; width: 100%;">
-  <p style="margin-bottom: 10px;">SystemS Analysis and Development Student</p>
-  <img src="https://24.media.tumblr.com/03c9505cfe9473d13619cd18a98d90e5/tumblr_n3xetmlDS41qav3uso1_500.gif" alt="GIF" style="width: 100%;">
+  <p style="margin-bottom: 10px;"> Hi there 👋, Bezerk 
+   </p>
+  <img src="https://i2.wp.com/www.beaude.net/no-flux/wp-content/uploads/2015/07/dLYfYLBGDmmQ3DSWcfNk8Q-default_x2.gif" alt="GIF" style="width: 100%; margin: 0 auto;">
 </div>
 
-- SystemS Analysis and Development Student 
+
+ I am a SystemS Analysis and Development Student
 ##
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=arthur1804&show_icons=true&theme=blue_navy)
